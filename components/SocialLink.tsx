@@ -13,7 +13,7 @@ const SocialLink: React.FC<SocialLinkProps> = ({ href, children, 'aria-label': a
       target="_blank"
       rel="noopener noreferrer"
       aria-label={ariaLabel}
-      className="text-gray-600 hover:text-black transition-colors duration-300 hover:underline"
+      className="text-gray-600 transition-colors duration-300"
     >
       {children}
     </a>
