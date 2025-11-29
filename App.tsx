@@ -79,9 +79,7 @@ const App: React.FC = () => {
               <SocialLink href="https://www.linkedin.com/in/kavyaarohi/" aria-label="LinkedIn Profile">
                 LinkedIn
               </SocialLink>
-              <SocialLink href="https://x.com/KavyaArohi" aria-label="Twitter Profile">
-                X
-              </SocialLink>
+              
               <SocialLink href="https://discord.gg/Ef4JST9S2E" aria-label="The Half Idea">
                 Half Idea
               </SocialLink>
