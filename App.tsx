@@ -53,7 +53,6 @@ const App: React.FC = () => {
                 </svg>
                 Follow me on LinkedIn
               </a>
-              
             </div>
           </header>
 
